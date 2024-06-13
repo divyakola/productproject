@@ -1,0 +1,24 @@
+body{
+   background-image:url("inputbg.avif");
+   background-repeat:no-repeat;
+   background-size: cover;
+}
+
+fieldset{
+   margin-left:300px;
+   margin-right:200px;
+   border:2px solid red;
+   padding-left:100px;
+   padding-bottom:50px;
+   color:red;
+}
+button{
+   margin-left:100px;
+}
+
+legend{
+  margin-left:100px;
+  color: yellow;
+  font: 20px italic Helvetica;
+}
+
